@@ -1,0 +1,30 @@
+.userCardStack {
+    margin: 100px 400px;
+}
+
+.cardWrapper {
+    width: 500px;
+    height: 400px;
+    background-color: #d5adad !important;
+}
+
+.cardMedia {
+    height: 140px
+}
+
+.cardMediaAvatar {
+    height: 150px;
+    min-width: 100px;
+    min-height: 100px;
+    width: 150px !important;
+    border-radius: 72%;
+    margin: -21% 36%
+}
+
+.cardContent {
+    margin-top: 100px
+}
+
+.cardSeperator {
+    margin: 17px 0 !important
+}
